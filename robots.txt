@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egomiewo.github.io/CrY/sitemap_index.txt
+Sitemap: https://egomiewo.github.io/JwA/sitemap_index.txt
+Sitemap: https://egomiewo.github.io/Kmo/sitemap_index.txt
+Sitemap: https://egomiewo.github.io/ltJ/sitemap_index.txt
